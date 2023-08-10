@@ -90,3 +90,13 @@
 #back-link:hover {
     text-decoration: none;
 }
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+#create-form,
+#edit-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
